@@ -1,0 +1,6 @@
+Faltan los modulos tanto del cliente como del servidor,
+recordar instalarlos antes de arrancar el proyecto con
+npm -i
+
+tareas.json y tecnicos.json son las collections de mongo
+estaba en local.
